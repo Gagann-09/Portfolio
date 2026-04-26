@@ -29,7 +29,7 @@ export default function Contact() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ delay: 0.2 }}
-          href="mailto:gagan.srira0@gmail.com" 
+          href="mailto:gagan.sriram0@gmail.com" 
           className="inline-block px-8 py-4 bg-white/5 border border-white/10 rounded-full font-bold text-white hover:bg-[var(--accent)] hover:border-[var(--accent)] transition-all shadow-[0_0_20px_rgba(255,255,255,0.02)] hover:shadow-[0_0_20px_var(--accent)]"
         >
           Say Hello
