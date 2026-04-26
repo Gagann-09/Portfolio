@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./public/gagan_photo.jpg" alt="Logo" width="120" height="120" style="border-radius: 50%;">
-  <h1 align="center">Gagan's Cyber-Premium Portfolio</h1>
+
+  <h1 align="center">Cyber-Premium Portfolio</h1>
 
   <p align="center">
     A futuristic, high-performance, and meticulously crafted personal portfolio built for the modern web.
