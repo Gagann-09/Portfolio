@@ -6,7 +6,7 @@ const syne = Syne({ subsets: ["latin"], variable: "--font-syne" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
-  title: "Gagandeep Singh | Cyber-Premium Portfolio",
+  title: "Gagan N | Portfolio",
   description: "Senior Frontend Architect and UI/UX Designer portfolio.",
 };
 
